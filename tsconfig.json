@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "target": "es2016",
+    "lib": ["es2016"],
+    "outDir": "build",
+    "module": "commonjs",
+    "declaration": true,
+    "removeComments": true,
+    "moduleResolution": "node",
+    "sourceMap": true
+  },
+  "include": [
+    "src/**/*"
+  ]
+}
